@@ -60,10 +60,10 @@
 
     @subsubsection H91 Opdracht 1
     Gegeven is de declaratie van een klasse Voertuig:
-    @image html voertuig.png
+    @image html Voertuig.png
     De defaultconstructor initialiseert aantalWielen met de waarde 4 en de constructor met een argument initialiseert met de waarde van aw.
     Leid uit deze klasse de volgende klasse af:
-    @image html fiets.png
+    @image html Fiets.png
     schrijf een implementatie voor alle constructors en functies. Maak bij de constructors van de klasse Fiets zo 
     veel mogelijk gebruik van de constructors van Voertuig. Bij Hiets moet het aantal wielen altijd met de waarde 2 worden 
     geinitialiseerd. Maak in de functie toString van Fiets gebruik van de functie met dezelfde naam van voertuig. 
@@ -155,10 +155,10 @@
 /** @defgroup HFST91 Opdracht 1
     @brief Opdracht 1
     @details Gegeven is de declaratie van een klasse Voertuig:
-    @image html voertuig.png
+    @image html Voertuig.png
     De defaultconstructor initialiseert aantalWielen met de waarde 4 en de constructor met een argument initialiseert met de waarde van aw.
     Leid uit deze klasse de volgende klasse af:
-    @image html fiets.png
+    @image html Fiets.png
     schrijf een implementatie voor alle constructors en functies. Maak bij de constructors van de klasse Fiets zo 
     veel mogelijk gebruik van de constructors van Voertuig. Bij Hiets moet het aantal wielen altijd met de waarde 2 worden 
     geinitialiseerd. Maak in de functie toString van Fiets gebruik van de functie met dezelfde naam van voertuig. 
