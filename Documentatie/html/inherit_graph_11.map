@@ -1,4 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$d8/d3a/class_voertuig.html" title="Parent klasse voor een voertuig." alt="" coords="5,5,76,32"/>
-<area shape="rect" id="node2" href="$d6/d8b/class_fiets.html" title="Child klasse fiets, parent: Voertuig." alt="" coords="124,5,175,32"/>
-</map>

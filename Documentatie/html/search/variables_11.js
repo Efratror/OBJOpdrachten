@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['waarde_239',['waarde',['../da/d18/class_teller.html#ae0277ce3f30e201b3e814815c209b983',1,'Teller']]]
-];

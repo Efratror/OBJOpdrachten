@@ -1,5 +1,0 @@
-<map id="Wedstrijd::toString" name="Wedstrijd::toString">
-<area shape="rect" id="node1" title="Alle gegevens van de wedstrijd weer gegeven als string." alt="" coords="5,31,136,57"/>
-<area shape="rect" id="node2" href="$da/d18/class_teller.html#a8434a2f74e7cd10eaa63804afe3dfeb8" title="Verkrijgt de waarde van de teller." alt="" coords="185,5,296,32"/>
-<area shape="rect" id="node3" href="$dc/d78/class_datum.html#a1d4fde90bf79b6aa26a55b74f9a0c3c8" title="Datum gerepresenteerd als een string in format dd&#45;mm&#45;jjjj." alt="" coords="184,56,297,83"/>
-</map>

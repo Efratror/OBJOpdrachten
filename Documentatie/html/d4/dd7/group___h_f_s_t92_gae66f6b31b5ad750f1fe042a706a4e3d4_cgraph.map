@@ -1,7 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node1" title="Main function." alt="" coords="5,56,56,83"/>
-<area shape="rect" id="node2" href="$db/da8/class_blue_ray.html#aa0a93b319d8da0201227941be638e933" title="Alle gegevens van een blueRay weer gegeven als string." alt="" coords="107,5,231,32"/>
-<area shape="rect" id="node4" href="$db/d63/class_boek.html#a1e5763f3f45853efd21a0d37a09b01fd" title="Alle gegevens van een boek weer gegeven als string." alt="" coords="117,56,222,83"/>
-<area shape="rect" id="node5" href="$d0/d1e/class_tijdschrift.html#a691ecb3382aee139c0090cec79c5b67f" title="Alle gegevens van een tijdschrift weer gegeven als string." alt="" coords="104,107,235,133"/>
-<area shape="rect" id="node3" href="$d0/d91/class_uitgave.html#abb802922c815b4efeada65e5ea9ab4ac" title="Alle gegevens van een uitgave weer gegeven als string." alt="" coords="283,56,400,83"/>
-</map>

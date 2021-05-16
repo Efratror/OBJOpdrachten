@@ -1,6 +1,0 @@
-<map id="Uitgave" name="Uitgave">
-<area shape="rect" id="node1" title="Parent klasse voor een Uitgave." alt="" coords="188,5,347,141"/>
-<area shape="rect" id="node2" href="$db/da8/class_blue_ray.html" title="Child klasse blueRay, parent: Uitgave." alt="" coords="5,204,164,311"/>
-<area shape="rect" id="node3" href="$db/d63/class_boek.html" title="Child klasse boek, parent: Uitgave." alt="" coords="188,189,347,325"/>
-<area shape="rect" id="node4" href="$d0/d1e/class_tijdschrift.html" title="Child klasse Tijdschrift, parent: Uitgave." alt="" coords="371,197,529,318"/>
-</map>

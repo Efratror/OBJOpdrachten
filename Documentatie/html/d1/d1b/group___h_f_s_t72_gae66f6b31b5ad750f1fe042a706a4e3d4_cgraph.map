@@ -1,8 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node1" title="Main function." alt="" coords="5,107,56,133"/>
-<area shape="rect" id="node2" href="$dc/d67/class_cijfer_administratie.html#a9402594d94d41c2baf3ca350e80f249b" title="Toont alle resultaten van een student." alt="" coords="111,5,334,32"/>
-<area shape="rect" id="node3" href="$dc/d67/class_cijfer_administratie.html#a5023ec7e7df1d233b69c2646c0e901ee" title="Toont alle studenten in de cijfer administratie." alt="" coords="113,56,332,83"/>
-<area shape="rect" id="node4" href="$dc/d67/class_cijfer_administratie.html#a8d0c3f81c8e64073e7f7aa48f2b6e773" title="Alle gegevens van de cijfer administratie weer gegeven als string." alt="" coords="133,107,313,133"/>
-<area shape="rect" id="node5" href="$dc/d67/class_cijfer_administratie.html#a9d4f5bedf81ef1db17ae7aa0ba2fdb5d" title="Voegt een tentamen resulataat toe." alt="" coords="104,157,341,184"/>
-<area shape="rect" id="node6" href="$dc/d67/class_cijfer_administratie.html#aa2cd2ea11e1d3ad6fd02743f127c1677" title="Voegt een student toe aan de cijfer administratie." alt="" coords="109,208,336,235"/>
-</map>
