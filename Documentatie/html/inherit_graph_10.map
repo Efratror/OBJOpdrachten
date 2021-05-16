@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d91/class_uitgave.html" title="Parent klasse voor een Uitgave." alt="" coords="5,56,69,83"/>
+<area shape="rect" id="node2" href="$db/da8/class_blue_ray.html" title="Child klasse blueRay, parent: Uitgave." alt="" coords="121,5,191,32"/>
+<area shape="rect" id="node3" href="$db/d63/class_boek.html" title="Child klasse boek, parent: Uitgave." alt="" coords="130,56,182,83"/>
+<area shape="rect" id="node4" href="$d0/d1e/class_tijdschrift.html" title="Child klasse Tijdschrift, parent: Uitgave." alt="" coords="117,107,195,133"/>
+</map>

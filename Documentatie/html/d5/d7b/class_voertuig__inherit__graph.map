@@ -1,0 +1,4 @@
+<map id="Voertuig" name="Voertuig">
+<area shape="rect" id="node1" title="Parent klasse voor een voertuig." alt="" coords="5,5,188,112"/>
+<area shape="rect" id="node2" href="$d6/d8b/class_fiets.html" title="Child klasse fiets, parent: Voertuig." alt="" coords="11,160,182,281"/>
+</map>

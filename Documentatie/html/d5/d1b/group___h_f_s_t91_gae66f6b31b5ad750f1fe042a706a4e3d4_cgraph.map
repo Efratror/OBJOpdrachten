@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,31,56,57"/>
+<area shape="rect" id="node2" href="$d6/d8b/class_fiets.html#a266a16ff6236e46e22377e17cbed6881" title="Alle gegevens van een fiets weer gegeven als string." alt="" coords="104,5,208,32"/>
+<area shape="rect" id="node3" href="$d8/d3a/class_voertuig.html#a7dfbb262f3ad516fa48a8003c0179a01" title="Alle gegevens van een voertuig weer gegeven als string." alt="" coords="256,31,379,57"/>
+</map>

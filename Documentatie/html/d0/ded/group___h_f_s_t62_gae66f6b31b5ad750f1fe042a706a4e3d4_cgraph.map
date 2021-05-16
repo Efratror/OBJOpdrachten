@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,157,56,184"/>
+<area shape="rect" id="node2" href="$da/d18/class_teller.html#a8434a2f74e7cd10eaa63804afe3dfeb8" title="Verkrijgt de waarde van de teller." alt="" coords="263,31,373,57"/>
+<area shape="rect" id="node3" href="$d3/d11/class_m_v.html#a84a130f8a362fb391911672befb361e3" title="Verhoog de mannen teller met een." alt="" coords="122,107,197,133"/>
+<area shape="rect" id="node4" href="$da/d18/class_teller.html#a2c301f440b0e059aa1a29d8dc3c55f24" title="Verhoogt de waarde van de teller met 1." alt="" coords="265,208,371,235"/>
+<area shape="rect" id="node5" href="$da/d18/class_teller.html#a2bc91fcb36cb8e81eaacf531463cc3fb" title="Zet de waarde van de teller." alt="" coords="104,157,215,184"/>
+<area shape="rect" id="node6" href="$d3/d11/class_m_v.html#a50f872cc3aa7f47440910cce5ebaa84f" title="Weergave van beide tellers." alt="" coords="112,5,207,32"/>
+<area shape="rect" id="node7" href="$da/d18/class_teller.html#adf506891a49824fad0ac2982a80bf38d" title="Verlaagt de waarde van de teller met 1." alt="" coords="109,259,210,285"/>
+<area shape="rect" id="node8" href="$d3/d11/class_m_v.html#a801098843a7701229ddc4fae1505fb9d" title="Verhoog de vrouwen teller met een." alt="" coords="118,309,201,336"/>
+</map>

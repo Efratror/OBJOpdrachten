@@ -1,0 +1,4 @@
+<map id="Student::toString" name="Student::toString">
+<area shape="rect" id="node1" title="Alle gegevens van de student weer gegeven als string." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$dc/d78/class_datum.html#a1d4fde90bf79b6aa26a55b74f9a0c3c8" title="Datum gerepresenteerd als een string in format dd&#45;mm&#45;jjjj." alt="" coords="173,5,287,32"/>
+</map>
