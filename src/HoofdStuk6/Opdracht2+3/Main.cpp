@@ -1,6 +1,6 @@
 /**
 ********************************************************************************
- *  @file		Main.cpp
+ *  @file		./HoofdStuk6/Opdracht2+3/Main.cpp
  *  @brief		Uitwerking hoofstuk 6, opdracht 2 en 3
  *  @details	Bevat de implementatie code voor een Tijdstip klasse demo
  *  @author		Max Avontuur
