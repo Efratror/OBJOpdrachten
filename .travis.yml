@@ -16,6 +16,7 @@ addons:
 # Build your code e.g. by calling make
 script:
   - doxygen Doxyfile
+  - touch .nojekyll
 
 # Generate and deploy documentation
 deploy:
