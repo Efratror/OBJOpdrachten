@@ -1,6 +1,6 @@
 /**
 *********************************************************************************
- *  @file		Main.cpp
+ *  @file		/HoofdStuk9/Opdracht2/Main.cpp
  *  @brief		Uitwerking hoofstuk 9, opdracht 2
  *  @details    Bevat de implementatie code voor een uitgevers "database" demo
  *  @author		Max Avontuur

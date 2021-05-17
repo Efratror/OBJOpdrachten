@@ -1,6 +1,6 @@
 /**
 *********************************************************************************
- *  @file		Teller.h
+ *  @file		./HoofdStuk7/Opdracht1/Teller.h
  *  @brief		Bevat de definitie code voor de Teller klasse
  *  @author		Max Avontuur
  *  @version	1.0

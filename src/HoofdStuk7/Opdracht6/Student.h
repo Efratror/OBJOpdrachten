@@ -1,6 +1,6 @@
 /**
 *********************************************************************************
- *  @file		Student.h
+ *  @file		/HoofdStuk7/Opdracht6/Student.h
  *  @brief		Bevat de definitie & implementatie code voor de Student1 klasse
  *  @author		Max Avontuur
  *  @version	1.0

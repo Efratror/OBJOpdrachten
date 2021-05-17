@@ -1,6 +1,6 @@
 /**
 *********************************************************************************
- *  @file		Datum.h
+ *  @file		/HoofdStuk7/Opdracht6/Datum.h
  *  @brief		Bevat de definitie & implementatie code voor de Datum klasse
  *  @author		Max Avontuur
  *  @version	1.0

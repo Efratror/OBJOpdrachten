@@ -1,6 +1,6 @@
 /**
 ********************************************************************************
- *  @file		Main.cpp
+ *  @file		/HoofdStuk7/Opdracht1/Main.cpp
  *  @brief		Uitwerking hoofstuk 7, opdracht 1
  *  @details	Bevat de implementatie code voor een demo van een Datum, Student, Team, Wedstrijd en Teller klasses
  *  @author		Max Avontuur

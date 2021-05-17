@@ -1,6 +1,6 @@
 /**
 *********************************************************************************
- *  @file		Main.cpp
+ *  @file		/HoofdStuk7/Opdracht6/Main.cpp
  *  @brief		Uitwerking hoofstuk 7, opdracht 6
  *  @details    Bevat de implementatie code voor een Teller en MV (PuntenTeller) classe demo
  *  @author		Max Avontuur
