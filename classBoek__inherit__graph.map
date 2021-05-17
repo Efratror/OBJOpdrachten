@@ -1,0 +1,4 @@
+<map id="Boek" name="Boek">
+<area shape="rect" id="node1" title="Child klasse boek, parent: Uitgave." alt="" coords="5,189,112,325"/>
+<area shape="rect" id="node2" href="$classUitgave.html" title="Parent klasse voor een Uitgave." alt="" coords="15,5,102,141"/>
+</map>

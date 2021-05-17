@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,107,56,133"/>
+<area shape="rect" id="node2" href="$classTijdstip.html#a5d541994f0d9d2c93d9d5069ff2a9b88" title="Het ingeven van een tijdStip." alt="" coords="125,5,257,32"/>
+<area shape="rect" id="node3" href="$classTijdstip.html#a30a010b20c1bb85577a57efb71b00144" title="Tijdstip gerepresenteerd als een string in format uu:mm:ss." alt="" coords="133,56,248,83"/>
+<area shape="rect" id="node5" href="$classTijdstip.html#a30eb38d591bb1ddd0b591e39299dcd41" title="Het verstrijken van een minuut" alt="" coords="110,107,271,133"/>
+<area shape="rect" id="node6" href="$classTijdstip.html#a39c1cb75608a1150a29760187b7b7a51" title="Het verstrijken van een seconde." alt="" coords="104,157,277,184"/>
+<area shape="rect" id="node7" href="$classTijdstip.html#a5c3c767eadb6fa0fe5e87b5361c73ca0" title="Het verstrijken van een uur in 24&#45;uurs format." alt="" coords="123,208,259,235"/>
+<area shape="rect" id="node4" href="$classTijdstip.html#af62dd17a0af7c5784c727fd3e6b8879e" title="voegt een &#39;0&#39;&#45;character toe voor i &lt; 10" alt="" coords="325,56,488,83"/>
+</map>

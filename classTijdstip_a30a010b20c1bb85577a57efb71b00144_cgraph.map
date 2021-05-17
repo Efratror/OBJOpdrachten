@@ -1,0 +1,4 @@
+<map id="Tijdstip::toString" name="Tijdstip::toString">
+<area shape="rect" id="node1" title="Tijdstip gerepresenteerd als een string in format uu:mm:ss." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node2" href="$classTijdstip.html#af62dd17a0af7c5784c727fd3e6b8879e" title="voegt een &#39;0&#39;&#45;character toe voor i &lt; 10" alt="" coords="168,5,331,32"/>
+</map>
