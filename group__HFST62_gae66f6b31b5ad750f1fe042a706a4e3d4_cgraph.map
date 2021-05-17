@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classTeller.html#ab5f12819a09287bc9bcdb42c7b9641e9" title="Verkrijgt de waarde van de teller. " alt="" coords="271,82,385,108"/>
+<area shape="rect" id="node3" href="$classTeller.html#a2bc91fcb36cb8e81eaacf531463cc3fb" title="Zet de waarde van de teller. " alt="" coords="108,31,223,58"/>
+<area shape="rect" id="node4" href="$classTeller.html#a2c301f440b0e059aa1a29d8dc3c55f24" title="Verhoogt de waarde van de teller met 1. " alt="" coords="108,82,223,108"/>
+<area shape="rect" id="node5" href="$classTeller.html#adf506891a49824fad0ac2982a80bf38d" title="Verlaagt de waarde van de teller met 1. " alt="" coords="111,132,220,159"/>
+<area shape="rect" id="node6" href="$classMV.html#a50f872cc3aa7f47440910cce5ebaa84f" title="Weergave van beide tellers. " alt="" coords="115,183,215,210"/>
+</map>
