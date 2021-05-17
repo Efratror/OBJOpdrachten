@@ -1,6 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$classTijdschrift.html#a06a64b55da768d0a657132c015c892be" title="Alle gegevens van een tijdschrift weer gegeven als string. " alt="" coords="108,5,249,32"/>
-<area shape="rect" id="node4" href="$classBoek.html#a21c8fd42ff784b1b4c06bb277bb53507" title="Alle gegevens van een boek weer gegeven als string. " alt="" coords="122,56,235,83"/>
-<area shape="rect" id="node5" href="$classBlueRay.html#abd86f893890db0b3b90c5a926a73d47a" title="Alle gegevens van een blueRay weer gegeven als string. " alt="" coords="113,107,244,133"/>
-<area shape="rect" id="node3" href="$classUitgave.html#ae0206979b90e066e81e976af1f708e2e" title="Alle gegevens van een uitgave weer gegeven als string. " alt="" coords="297,56,428,83"/>
-</map>

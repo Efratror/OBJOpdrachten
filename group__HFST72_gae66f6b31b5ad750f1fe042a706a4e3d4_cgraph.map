@@ -1,7 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$classCijferAdministratie.html#aa2cd2ea11e1d3ad6fd02743f127c1677" title="Voegt een student toe aan de cijfer administratie. " alt="" coords="109,5,248,47"/>
-<area shape="rect" id="node3" href="$classCijferAdministratie.html#a9d4f5bedf81ef1db17ae7aa0ba2fdb5d" title="Voegt een tentamen resulataat toe. " alt="" coords="108,71,249,112"/>
-<area shape="rect" id="node4" href="$classCijferAdministratie.html#a9402594d94d41c2baf3ca350e80f249b" title="Toont alle resultaten van een student. " alt="" coords="109,136,248,177"/>
-<area shape="rect" id="node5" href="$classCijferAdministratie.html#a5023ec7e7df1d233b69c2646c0e901ee" title="Toont alle studenten in de cijfer administratie. " alt="" coords="109,201,248,243"/>
-<area shape="rect" id="node6" href="$classCijferAdministratie.html#a5667b79cc4a13820353f1e32df81cc84" title="Alle gegevens van de cijfer administratie weer gegeven als string. " alt="" coords="109,267,248,308"/>
-</map>

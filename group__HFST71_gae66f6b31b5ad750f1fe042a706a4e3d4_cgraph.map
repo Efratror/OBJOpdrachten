@@ -1,9 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node2" href="$classTeam.html#a55ae62581e3fd4f082c24d7bf0a23a10" title="Voeg een lid toe aan het team. " alt="" coords="108,5,276,32"/>
-<area shape="rect" id="node3" href="$classTeam.html#a2065c76c45ede476e860da83a099e2a9" title="Alle gegevens van het team weer gegeven als string. " alt="" coords="135,56,249,83"/>
-<area shape="rect" id="node4" href="$classWedstrijd.html#a5b0dc4d5ad9bdc2ac84f1a9b6a8e8465" title="Team 1 scoort een punt. " alt="" coords="127,107,257,133"/>
-<area shape="rect" id="node6" href="$classWedstrijd.html#ae4dde403b3e23492f813f2e54972327d" title="Alle gegevens van de wedstrijd weer gegeven als string. " alt="" coords="123,157,261,184"/>
-<area shape="rect" id="node5" href="$classTeller.html#a2c301f440b0e059aa1a29d8dc3c55f24" title="Verhoogt de waarde van de teller met 1. " alt="" coords="329,107,444,133"/>
-<area shape="rect" id="node7" href="$classDatum.html#ad1db0f79466bbb80c69b00964a6a81df" title="Datum gerepresenteerd als een string in format dd&#45;mm&#45;jjjj. " alt="" coords="324,157,449,184"/>
-<area shape="rect" id="node8" href="$classTeller.html#ab5f12819a09287bc9bcdb42c7b9641e9" title="Verkrijgt de waarde van de teller. " alt="" coords="329,208,444,235"/>
-</map>
